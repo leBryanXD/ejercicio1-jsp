@@ -1,4 +1,6 @@
+clases\Transaction.class
 com\mycompany\examen1\resources\JakartaEE10Resource.class
+clases\CashRegister.class
+com\mycompany\examen1\JakartaRestConfiguration.class
 clases\ProductList.class
 clases\Product.class
-com\mycompany\examen1\JakartaRestConfiguration.class
